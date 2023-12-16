@@ -1,0 +1,44 @@
+<!-- Institution Section -->
+<section class="site-section institution-section section-focus" id="institution">
+  <div class="container">
+
+    <!-- Section Heading -->
+    <div class="row text-center">
+
+      <!-- Section Header -->
+      <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
+        <h2>{{ site.institution-title }}</h2>
+        <hr class="normal">
+      </header>
+
+      <!-- Section Content -->
+      <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
+        <p>{{ site.institution-description }}</p>
+      </div>
+
+    </div>
+
+    <!-- Institution Members -->
+    <div class="row institution-members-container">
+
+      {% for member in site.institution %}
+
+      <!-- Member -->
+      <div class="col-md-3 col-md-push-0 col-sm-6 col-sm-push-0 col-xs-6 col-xs-push-0">
+        <div class="institution-member">
+          <a href="{{ member.url }}" target="_blank">
+            <div class="img-wrapper">
+              <!-- img with fixed height equal to 200px -->
+              <img src="{{ site.baseurl }}/images/avatars/{{ member.avatar }}"
+                style="height: auto !important; width: auto !important; display: block; margin: 0 auto; max-height: 150px;">
+            </div>
+          </a>
+        </div>
+      </div>
+
+      {% endfor %}
+
+    </div>
+
+  </div>
+</section>

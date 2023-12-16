@@ -1,0 +1,243 @@
+/**
+ *
+ *  Header Style
+ *
+ *  @package ohkimur_layout
+ *
+ **/
+
+header.site-header {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  max-height: 1400px;
+  z-index: 1;
+
+  // Blog Header
+  &.blog-header {
+    height: 60px;
+
+    @media (max-width: 1000px) {
+      height: 60px;
+    }
+
+    .parallax-wrapper {
+      height: 60px;
+      background-color: #130007;
+
+      @media (max-width: 1000px) {
+        height: 60px;
+      }
+
+    }
+
+
+    .container {
+      height: 100px;
+    }
+
+    .header-banner {
+      height: 100px;
+    }
+  }
+
+
+  // Parallax-wrapper
+  .parallax-wrapper {
+    overflow: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    max-height: 1400px;
+    top: 0;
+    left: 0;
+
+  }
+
+  .container {
+    position: relative;
+    height: 100vh;
+    max-height: 1400px;
+  }
+
+  // Site Navigation Bar
+  .site-navigation-bar {
+    // position: relative;
+    // height: 100px;
+    // min-height: 100px;
+    // z-index: 2;
+    // Sticky menu
+    display: block;
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    top: 0;
+    left: 0px;
+    min-height: 60px;
+    background: $primary_dark;
+    z-index: 99999999999999;
+
+    // Logo
+    .logo {
+      img {
+        display: block;
+        float: left;
+        max-width: 300% !important;
+      }
+    }
+
+    // Navigation Bar
+    .navigation-bar {
+
+      nav.nav-menu {
+        position: relative;
+        display: block;
+        float: right;
+
+        ul {
+          li {
+            float: left;
+            margin-right: 30px;
+
+            &:last-child {
+              margin-right: 0;
+            }
+
+            &.current-menu-item {
+              a {
+                color: $primary_bright;
+                position: relative;
+                font-weight: bold;
+
+                &:before {
+                  content: '';
+                  display: block;
+                  position: absolute;
+                  width: 50%;
+                  height: 1px;
+                  left: 50%;
+                  bottom: -10px;
+                  transform: translateX(-50%);
+                  background-color: $primary;
+                }
+              }
+            }
+
+            a {
+              display: block;
+              color: $white;
+              padding: 10px 0;
+
+              &:hover,
+              &:active {
+                color: $primary;
+              }
+
+            }
+          }
+        }
+
+      }
+    }
+
+  }
+
+  // Site Header Banner
+  .header-banner {
+    height: calc(100vh - 250px);
+    max-height: calc(1400px - 250px);
+    z-index: 2;
+    color: $white;
+
+    .heading-content {
+      width: 100%;
+      text-transform: none;
+
+      .heading-title {
+        hr.small {
+          margin-top: 40px;
+          margin-bottom: 40px;
+        }
+
+        h2 {
+          line-height: 140%;
+          font-weight: 300;
+        }
+      }
+
+      .buttons-header {
+        margin-top: 40px;
+
+        .button-cta {
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  // Arrow Down Section
+  .arrow-down-section {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    bottom: 0;
+    z-index: 3;
+
+    .arrow-down {
+      display: block;
+      position: relative;
+      font-size: 4rem;
+      line-height: 4rem;
+      color: $white;
+      width: 64px;
+      height: 64px;
+
+      &:before,
+      &:after {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        transform: rotate(45deg);
+      }
+
+      // Stroke
+      &:before {
+        border: 1px solid $primary;
+        transform: rotate(45deg) scale(1.25); // SG: removing the pulsing animation
+        // animation: sera-pulse $animation-arrow-header-time $animation-arrow-header-type infinite alternate; 
+      }
+
+      // Background
+      &:after {
+        transition: background-color $transition-links $transition-links-type;
+        background-color: rgba(255, 255, 255, 0.2);
+      }
+
+      &:hover {
+        i {
+          transform: scale(1.3);
+        }
+
+        &:after {
+          background-color: rgba(255, 255, 255, 0.3);
+        }
+      }
+
+      i {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        transition: transform $transition-links $transition-links-type;
+
+        &:before {
+          width: 100%;
+          height: 100%;
+        }
+      }
+    }
+  }
+
+}
