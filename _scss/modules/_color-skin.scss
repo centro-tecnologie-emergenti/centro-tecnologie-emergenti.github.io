@@ -37,10 +37,10 @@
 
 // Theme Colors
 $blue: #21c2f8;
-$green: #2ecc71;
-$red: #CA0E4C;
-$red_bright: #d93f72;
-$green_bright: #2eccaa;
+$green: #009246FF;
+$red: #CE1126FF;
+$red_bright: #d93f72;  // todo update
+$green_bright: #2eccaa;  // todo update
 
 // Global Pallete
 $white: #fff;
@@ -55,7 +55,7 @@ $light-red: #f9f8f4;
 $primary: $green;
 $primary_bright: $green_bright;
 $primary_dark: #000000e0;
-$secondary: #2c3e50;
+$secondary: $red;
 $light-bkgd: $light-red;
 
 // Gray Pallete

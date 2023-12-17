@@ -49,7 +49,7 @@ lang: it-IT # en-US
 # Header Title
 header-title: CETE - Centro per l'Etica nelle Tecnologie Emergenti
 # Header Tagline
-header-tagline: CETE e` un network di esperti in diverse tecnologie interessati alla loro applicazione etica nella societa` italiana.
+header-tagline: CETE e` un network di esperti di tecnologie emergenti interessati alla loro applicazione etica nella societa` italiana.
 # SG: the site logo is set in logo.svg
 # I chagned it to text.
 ####################################
@@ -95,7 +95,7 @@ vimeo: "#"
 #
 about-widget:
   author-avatar: avatar-02.jpg
-  author-name: John Doe
+  author-name: Lorenzo Pacchiardi
   author-tagline: Blog Author
   author-info: I wonder where this goes!
   author-social-links:
@@ -133,14 +133,14 @@ about-title: La nostra missione
 about-description: Fare cose ...
 
 #####################################
-#############  Features  ############
+#############  Technologies  ########
 #####################################
-features-title: Il nostro focus
-features-description: Bla bla
+technologies-title: Le tecnologie su cui ci concentriamo
+technologies-description: Bla bla
 #
-# Features
+# technologies
 #
-features:
+technologies:
   # Feature
   - title: Artificial Intelligence
     description: Ovviamente...
@@ -152,7 +152,32 @@ features:
     icon: pe-7s-vector
 
   # Feature
-  - title: Cosa altro?
+  - title: Social Media
+    description: bla
+    icon: pe-7s-help2
+
+
+#####################################
+#############  Approaches  ########
+#####################################
+approaches-title: Gli approcci che usiamo
+approaches-description: Ovviamente il testo e svgs sono da cambiare
+#
+# technologies
+#
+approaches:
+  # Feature
+  - title: Policies a livello Italiano
+    description: Ovviamente...
+    icon: pe-7s-airplay
+
+  # Feature
+  - title: L'Italia nell'Unione Europea
+    description: Cose che si possono mangiare
+    icon: pe-7s-vector
+
+  # Feature
+  - title: La sfera globale
     description: bla
     icon: pe-7s-help2
 
@@ -336,7 +361,7 @@ team-title: Il Team
 team:
   # Team Member
   - full_name: Lorenzo Pacchiardi
-    avatar: albert_bietti.jpg
+    avatar: lorenzo_pacchiardi-small.jpg
     website: http://lorenzopacchiardi.me/
     linkedin: https://www.linkedin.com/in/lorenzo-pacchiardi
     twitter: https://twitter.com/lorenzopacchiardi
@@ -346,6 +371,13 @@ team:
     avatar: albert_bietti.jpg
     website: http://...
     linkedin: https://www.linkedin.com/in/lorenzo-buscicchi-0b1b0b1b/
+    twitter: https://twitter.com/...
+    bio:
+
+  - full_name: Qualcun altro
+    avatar: albert_bietti.jpg
+    website: http://...
+    linkedin: https://www.linkedin.com/in/.../
     twitter: https://twitter.com/...
     bio:
 
@@ -468,8 +500,8 @@ team:
 #####################################
 ############   Contact   ############
 #####################################
-contact-title: Contact Us
-contact-description: Let's pioneer the future of science together. Contact us to join the conversation.
+contact-title: Contattaci
+contact-description: .
 
 #####################################
 #############   Footer   ############
@@ -491,5 +523,5 @@ page_gen:
     debug: true
 
 # Show future posts:
-timezone: America/New_York
+timezone: Europe/Rome
 future: true

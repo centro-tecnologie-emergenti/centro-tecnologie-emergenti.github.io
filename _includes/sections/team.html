@@ -28,11 +28,12 @@
       <!-- Member -->
       <a href="{{site.baseurl}}/members/{{member.full_name | replace: ' ', '-' | downcase}}">
       <!-- <a href={{member.website}}> -->
-        <div class="col-md-3 col-md-push-0 col-sm-6 col-sm-push-0 col-xs-6 col-xs-push-0">
+<!--        <div class="col-md-3 col-md-push-0 col-sm-6 col-sm-push-0 col-xs-6 col-xs-push-0">  for 4 members -->
+      <div class="col-md-4 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1"> <!-- for 3 members -->
           <div class="team-member">
             <div class="img-wrapper">
               <!-- img with fixed height equal to 200px -->
-              <img src="{{ site.baseurl }}/images/avatars/no_bg_mini/{{ member.avatar }}"
+              <img src="{{ site.baseurl }}/images/avatars/{{ member.avatar }}"
                 style="height: auto !important; width: auto !important; display: block; margin: 0 auto; max-height: 160px;">
             </div>
             <div class="team-member-content">
