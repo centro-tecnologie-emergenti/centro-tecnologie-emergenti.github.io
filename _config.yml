@@ -72,7 +72,7 @@ header-tagline: CETE e` un network di esperti di tecnologie emergenti interessat
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
 # To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: lorenzo.pacchiardi@gmail.com
 
 # # Offer Banner Link
 # # Default link is a link to all Sera OnePage products
@@ -501,7 +501,7 @@ team:
 ############   Contact   ############
 #####################################
 contact-title: Contattaci
-contact-description: .
+contact-description:
 
 #####################################
 #############   Footer   ############
