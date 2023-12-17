@@ -160,7 +160,7 @@ technologies:
 #####################################
 #############  Approaches  ########
 #####################################
-approaches-title: Gli approcci che usiamo
+approaches-title: I livelli a cui lavoriamo
 approaches-description: Ovviamente il testo e svgs sono da cambiare
 #
 # technologies
@@ -169,17 +169,17 @@ approaches:
   # Feature
   - title: Policies a livello Italiano
     description: Ovviamente...
-    icon: pe-7s-airplay
+    icon: italy-flag-round-circle-icon.svg
 
   # Feature
   - title: L'Italia nell'Unione Europea
     description: Cose che si possono mangiare
-    icon: pe-7s-vector
+    icon: european-union-flag-round-circle-icon.svg
 
   # Feature
   - title: La sfera globale
     description: bla
-    icon: pe-7s-help2
+    icon: world-globe-line-icon.svg
 
 
 #####################################

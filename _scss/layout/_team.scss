@@ -8,7 +8,7 @@
  **/
 
 section.team-section {
-  background-color: #fff !important;
+  background-color: $light-bkgd !important;
 
   // Team Members Container
   .team-members-container {
@@ -32,7 +32,7 @@ section.team-section {
 
     // Member
     .team-member {
-      background: $white;
+      background: $light-bkgd;
       margin-bottom: 30px;
       transition: all $transition-links $transition-links-type;
 
@@ -63,7 +63,7 @@ section.team-section {
           font-size: 4rem;
           width: auto;
           height: auto;
-          color: $white;
+          color: $light-bkgd;
           background: transparent;
         }
       }

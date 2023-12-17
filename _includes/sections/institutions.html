@@ -7,13 +7,13 @@
 
       <!-- Section Header -->
       <header class="col-md-8 col-md-push-2 col-sm-12 section-header">
-        <h2>{{ site.institution-title }}</h2>
+        <h2>{{ site.approaches-title }}</h2>
         <hr class="normal">
       </header>
 
       <!-- Section Content -->
       <div class="col-md-8 col-md-push-2 col-sm-12 section-content">
-        <p>{{ site.institution-description }}</p>
+        <p>{{ site.approaches-description }}</p>
       </div>
 
     </div>
@@ -21,18 +21,20 @@
     <!-- Institution Members -->
     <div class="row institution-members-container">
 
-      {% for member in site.institution %}
+      {% for member in site.approaches %}
 
       <!-- Member -->
-      <div class="col-md-3 col-md-push-0 col-sm-6 col-sm-push-0 col-xs-6 col-xs-push-0">
+      <div class="col-md-4 col-md-push-0 col-sm-8 col-sm-push-2 col-xs-10 col-xs-push-1">
         <div class="institution-member">
-          <a href="{{ member.url }}" target="_blank">
             <div class="img-wrapper">
               <!-- img with fixed height equal to 200px -->
-              <img src="{{ site.baseurl }}/images/avatars/{{ member.avatar }}"
-                style="height: auto !important; width: auto !important; display: block; margin: 0 auto; max-height: 150px;">
+              <img src="{{ site.baseurl }}/images/icons/{{ member.icon }}"
+                style="height: auto !important; width: auto !important; display: block; margin: 0 auto; max-height: 120px;">
             </div>
-          </a>
+        </div>
+        <div class="content text-center">
+          <h3>{{ member.title }}</h3>
+          <p>{{ member.description }}</p>
         </div>
       </div>
 

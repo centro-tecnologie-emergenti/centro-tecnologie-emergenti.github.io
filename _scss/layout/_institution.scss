@@ -126,6 +126,21 @@ section.institution-section {
 
     }
 
+
+    // Feature Content
+    .content {
+
+      h3 {
+        color: $secondary;
+        text-transform: uppercase;
+        margin-bottom: 1.25rem;
+      }
+
+      h3, p {
+        transition: color $transition-links $transition-links-type;
+      }
+    }
+
   }
 
 }
