@@ -35,7 +35,7 @@ bundle exec jekyll build
   - the layout and aspect of these are defined in the `_scss/layout` files
 - `images` contain images
   - for instance `logo.svg` is the logo
-- `members` contain members bios
+- `members` contain members bios -> it looks like it is sufficient for it to have a .md file for each member,
 - `config.yml` contains the main properties of the website and org.
 - site colors: `_scss/modules/_color-skin.scss`
 
