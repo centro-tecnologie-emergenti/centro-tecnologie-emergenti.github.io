@@ -1,6 +1,6 @@
 ---
 layout: member
-full_name: "Qualcun Altro"
+full_name: "Angelo Leone"
 ---
 
 Ciao

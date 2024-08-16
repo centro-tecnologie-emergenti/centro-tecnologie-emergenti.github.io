@@ -252,7 +252,7 @@ approaches:
 ############# Our Blog ##############
 #####################################
 blog-title: Notizie
-blog-description: Le attività recenti del team di CETE
+#blog-description: Le attività recenti del team di CETE
 
 #####################################
 ############### Team ################
@@ -275,25 +275,28 @@ team:
     avatar: albert_bietti.jpg
     website: http://...
     linkedin: https://www.linkedin.com/in/lorenzo-buscicchi-0b1b0b1b/
-    twitter: https://twitter.com/...
     bio:
 
   - full_name: Angelo Leone
     avatar: albert_bietti.jpg
     website: http://...
     linkedin: https://www.linkedin.com/in/.../
-    twitter: https://twitter.com/...
     bio:
 
 
-  - full_name: Angelo Leone
+  - full_name: Giulia Consonni
     avatar: albert_bietti.jpg
     website: http://...
     linkedin: https://www.linkedin.com/in/.../
-    twitter: https://twitter.com/...
     bio:
 
-  
+  - full_name: Matteo Pistillo
+    avatar: albert_bietti.jpg
+    website: http://...
+    linkedin: https://www.linkedin.com/in/.../
+    bio:
+
+
 
 #####################################
 ########## Institutions #############
