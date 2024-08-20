@@ -269,20 +269,19 @@ team:
     website: http://lorenzopacchiardi.me/
     linkedin: https://www.linkedin.com/in/lorenzo-pacchiardi
     twitter: https://twitter.com/lorenzopacchiardi
-    bio: ciao ciao
+    bio: <a href="http://www.lorenzopacchiardi.me/">Lorenzo</a> è un ricercatore presso il <a href="http://lcfi.ac.uk/">Leverhulme Centre for the Future of Intelligence</a> all'Università di Cambridge, Inghilterra, dove lavora su predictability e evaluation dei sistemi di intelligenza artificiale. Ha esperienza in AI policy a livello europeo, avendo lavorato su technical standards per l'AI Act, per il <a href="https://futureoflife.org/">Future of Life Institute</a>. Ha conseguito un dottorato in Statistica a Oxford.
 
   - full_name: Lorenzo Buscicchi
-    avatar: albert_bietti.jpg
+    avatar: lorenzo_buscicchi.jpeg
     website: http://...
     linkedin: https://www.linkedin.com/in/lorenzo-buscicchi-0b1b0b1b/
-    bio:
+    bio: Lorenzo ha ottenuto il suo PhD all’University of Waikato (NZ). Ha pubblicato su questioni relative all'<a href="https://link.springer.com/article/10.1007/s13164-023-00705-w">utilitarismo classico</a> e sull’<a href="https://iep.utm.edu/experience-machine/">etica della realtà virtuale</a>. Lavora in ambito compliance, è attivo in un partito politico e in <a href="https://altruismoefficace.it/blog/il-comitato-scientifico-di-altruismo-efficace-italia">Effective Altruism</a>. Lo potete trovare su <a href="https://www.threads.net/@lorebuscicchi">Threads</a>.
 
   - full_name: Angelo Leone
-    avatar: albert_bietti.jpg
+    avatar: angelo_leone.jpg
     website: http://...
-    linkedin: https://www.linkedin.com/in/.../
-    bio:
-
+    linkedin: https://www.linkedin.com/in/a-leone/
+    bio: "Angelo, laureando del MPA (Master in Public Administration) in Data Science for Public Policy alla London School of Economics, sta arricchendo il suo percorso con un tirocinio presso il Ministero delle Imprese e del Made in Italy, focalizzandosi sulle politiche industriali legate all'intelligenza artificiale. La sua esperienza spazia dal settore pubblico al privato: ha guidato la formulazione di politiche pubbliche sull'impatto dell'AI nel mondo del lavoro presso il Tony Blair Institute for Global Change e ha fornito consulenza in ambito AI per aziende del settore pubblico in Accenture. Il suo background include esperienze nel settore startup, in particolare MedTech e BioTech. Precedentemente, ha conseguito una laurea triennale in Economia presso l'Università di Padova."
 
   - full_name: Giulia Consonni
     avatar: albert_bietti.jpg
