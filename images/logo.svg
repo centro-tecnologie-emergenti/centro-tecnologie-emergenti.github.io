@@ -1,48 +1,155 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   id="Layer_1"
-   data-name="Layer 1"
-   viewBox="0 0 371.23193 93.450763"
    version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="2404.4973"
+   viewBox="0 0 2404.4973 442.05395"
+   enable-background="new 0 0 1024 1024"
+   xml:space="preserve"
    sodipodi:docname="logo.svg"
-   width="371.23193"
-   height="93.45076"
+   height="442.05396"
    inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview10"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="3.1265404"
-     inkscape:cx="186.14824"
-     inkscape:cy="55.172804"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" />
-  <defs
-     id="defs1">
-    <style
-       id="style1">
-      .cls-1 {
-        fill: #fff;
-        stroke-width: 0px;
-      }
-    </style>
-  </defs>
-  <path
-     style="font-size:125.771px;line-height:1.25;font-family:'CMU Serif Upright Italic';-inkscape-font-specification:'CMU Serif Upright Italic, Normal';letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:1.68452"
-     d="M 17.080025,79.237841 Q 3.9998406,66.031885 3.9998406,46.663151 q 0,-19.368735 13.0801844,-32.448919 Q 30.160209,1.0082765 47.76815,1.0082765 q 13.960581,0 23.141865,10.8163065 6.791634,-9.9359095 7.420489,-10.4389935 0.503084,-0.251542 0.880397,-0.251542 1.509252,0 1.509252,2.7669621 V 34.337592 q 0,2.641192 -1.760794,2.641192 -1.383481,0 -2.012336,-1.131939 -0.251542,-0.628856 -0.628855,-3.018505 -0.251542,-2.51542 -1.25771,-5.911237 -1.131939,-3.77313 -3.270046,-7.294718 Q 69.778076,15.975026 66.6338,12.579209 63.489525,9.0576207 58.961769,7.0452847 54.434013,4.9071776 49.151631,4.9071776 q -3.395817,0 -7.043176,0.880397 -3.647359,0.754626 -8.300887,3.5215881 -4.653527,2.7669623 -8.300886,7.0431763 -3.521588,4.276214 -6.037008,12.199787 -2.51542,7.797803 -2.51542,17.985254 0,9.810138 2.263878,17.60794 2.389649,7.672032 5.785466,12.199788 3.395817,4.401985 7.923573,7.294718 4.653528,2.892733 8.552429,3.898901 4.024672,1.006168 7.923573,1.006168 11.067848,0 18.991421,-7.672031 8.049345,-7.797802 9.055513,-18.865651 0.251542,-3.018504 0.754626,-3.395817 0.754626,-0.503084 1.006168,-0.503084 1.509252,0 1.509252,2.766962 0,4.527756 -2.012336,9.810139 -2.012336,5.282382 -5.911237,10.313222 -3.77313,4.905069 -10.313223,8.175115 -6.540092,3.270046 -14.589436,3.270046 -17.607941,0 -30.813896,-13.205955 z m 81.876906,10.438993 v -3.898901 h 1.635019 q 7.16895,0 9.18129,-0.880397 2.1381,-1.006168 2.1381,-4.401985 V 13.333835 q 0,-3.5215883 -2.1381,-4.4019853 -2.13811,-1.006168 -9.18129,-1.006168 H 98.956931 V 4.1525516 h 70.809079 l 3.52158,28.2984754 h -3.14427 q -0.75463,-5.659695 -1.38348,-8.678199 -0.50309,-3.018504 -2.38965,-6.791634 -1.88657,-3.77313 -4.7793,-5.659695 -5.15661,-3.3958173 -19.36873,-3.3958173 h -10.31323 q -5.78546,0 -7.29471,0.628855 -1.38349,0.628855 -1.50926,3.8989013 v 30.813896 h 10.06168 q 9.43283,0 12.07402,-2.766962 2.76696,-2.766962 2.76696,-11.822475 h 3.14428 v 33.203545 h -3.14428 q 0,-9.181283 -2.76696,-11.948245 -2.76696,-2.766962 -12.19979,-2.766962 h -9.93591 v 33.8324 q 0,3.395817 1.38348,4.150443 1.50926,0.628855 7.79781,0.628855 h 11.6967 q 4.90507,0 7.92357,-0.251542 3.14428,-0.251542 7.04318,-1.509252 4.02467,-1.383481 6.66586,-3.898901 2.38965,-2.389649 4.15045,-7.043176 1.88656,-4.653528 2.38964,-7.294719 0.50309,-2.641191 1.50926,-8.552428 h 3.14427 L 171.5268,89.676834 Z M 191.90147,32.82834 194.41689,4.5298646 h 76.72032 l 2.38965,28.2984754 h -3.14428 q -0.50308,-5.282382 -0.8804,-8.049344 -0.37731,-2.892733 -1.25771,-6.162779 -0.88039,-3.270046 -2.1381,-4.779298 -1.25771,-1.635023 -3.52159,-3.018504 -2.13811,-1.5092523 -5.28238,-2.0123363 -3.14428,-0.503084 -7.54626,-0.503084 h -5.03084 q -3.52159,0 -5.03084,0.880397 -1.38349,0.754626 -1.38349,3.8989013 v 66.784403 q 0,3.898901 2.76697,4.905069 2.89273,1.006168 12.82864,1.006168 h 2.64119 v 3.898901 q -13.4575,-0.377313 -22.26147,-0.377313 -12.5771,0 -25.40574,0.377313 v -3.898901 h 2.76696 q 9.81014,0 12.5771,-1.006168 2.89273,-1.006168 2.89273,-4.905069 V 13.082293 q 0,-3.1442753 -1.38348,-3.8989013 -1.38348,-0.880397 -5.03084,-0.880397 h -4.90507 q -5.40815,0 -8.92974,1.006168 -3.52158,1.0061683 -5.65969,2.5154203 -2.13811,1.509252 -3.39582,5.03084 -1.25771,3.521588 -1.76079,6.665863 -0.50309,3.144275 -1.00617,9.307054 z m 97.47251,56.848494 v -3.898901 h 1.63503 q 7.16894,0 9.18128,-0.880397 2.13811,-1.006168 2.13811,-4.401985 V 13.333835 q 0,-3.5215883 -2.13811,-4.4019853 -2.13811,-1.006168 -9.18128,-1.006168 h -1.63503 V 4.1525516 h 70.80908 l 3.52159,28.2984754 h -3.14428 q -0.75462,-5.659695 -1.38348,-8.678199 -0.50308,-3.018504 -2.38965,-6.791634 -1.88656,-3.77313 -4.7793,-5.659695 -5.15661,-3.3958173 -19.36873,-3.3958173 h -10.31322 q -5.78547,0 -7.29472,0.628855 -1.38348,0.628855 -1.50925,3.8989013 v 30.813896 h 10.06168 q 9.43282,0 12.07401,-2.766962 2.76697,-2.766962 2.76697,-11.822475 h 3.14427 v 33.203545 h -3.14427 q 0,-9.181283 -2.76697,-11.948245 -2.76696,-2.766962 -12.19978,-2.766962 h -9.93591 v 33.8324 q 0,3.395817 1.38348,4.150443 1.50925,0.628855 7.7978,0.628855 H 334.4 q 4.90507,0 7.92358,-0.251542 3.14427,-0.251542 7.04317,-1.509252 4.02467,-1.383481 6.66587,-3.898901 2.38964,-2.389649 4.15044,-7.043176 1.88656,-4.653528 2.38965,-7.294719 0.50308,-2.641191 1.50925,-8.552428 h 3.14428 l -5.28239,32.448919 z"
-     id="text10"
-     aria-label="CETE" />
-</svg>
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs86" /><sodipodi:namedview
+   id="namedview86"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.41894531"
+   inkscape:cx="2343.9814"
+   inkscape:cy="553.77156"
+   inkscape:window-width="1920"
+   inkscape:window-height="1016"
+   inkscape:window-x="1920"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.642px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffffff;stroke-width:7.41578"
+   x="1468.0593"
+   y="105.45042"
+   id="text86"><tspan
+     sodipodi:role="line"
+     x="1468.0593"
+     y="105.45042"
+     id="tspan88"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.642px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.41578">Centro per l'Etica</tspan><tspan
+     sodipodi:role="line"
+     x="1468.0593"
+     y="253.75291"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.642px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.41578"
+     id="tspan90">nelle Tecnologie </tspan><tspan
+     sodipodi:role="line"
+     x="1468.0593"
+     y="402.05542"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:118.642px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:7.41578"
+     id="tspan2">Emergenti</tspan></text><text
+   xml:space="preserve"
+   style="font-size:516.982px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;fill:#ffffff;stroke-width:32.3102;stroke-dasharray:none"
+   x="-28.950993"
+   y="397.57953"
+   id="text89"><tspan
+     sodipodi:role="line"
+     id="tspan89"
+     x="-28.950993"
+     y="397.57953"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:516.982px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:32.3102;stroke-dasharray:none">CETE</tspan></text><path
+   style="fill:#008000;stroke:#009246;stroke-width:10.1415;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+   d="M 1440.4549,5.0707502 V 436.9832"
+   id="path90" /></svg>
