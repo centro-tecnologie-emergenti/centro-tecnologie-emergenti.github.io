@@ -47,9 +47,10 @@ title: Centro per l'Etica nelle Tecnologie Emergenti
 # Website language
 lang: it-IT # en-US
 # Header Title
-header-title: CETE - Centro per l'Etica nelle Tecnologie Emergenti
+header-title: Aiutiamo l'Italia a navigare <br> le nuove tecnologie
+# Oppure: "Supportiamo l'Italia nelle sfide delle nuove tecnologie"
 # Header Tagline
-header-tagline: CETE e` un network di esperti di tecnologie emergenti interessati alla loro applicazione etica nella societa` italiana.
+header-tagline: Un network di esperti indipendenti, pragmatici e scientificamente rigorosi
 # SG: the site logo is set in logo.svg
 # I chagned it to text.
 ####################################
