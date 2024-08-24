@@ -17,7 +17,7 @@
 
         {%assign current_post =  site.posts | where: "explains_mission_statement", true |sample %}
         <div style="padding-top: 10px;">
-          <a href="{{ site.baseurl }}{{ current_post.url}}" class="button">Read More</a>
+          <a href="{{ site.baseurl }}{{ current_post.url}}" class="button">{{ site.about-button-text}} </a>
         </div>
       </div>
 

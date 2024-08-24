@@ -52,7 +52,12 @@ header-title: Aiutiamo l'Italia a navigare <br> le nuove tecnologie
 # Header Tagline
 header-tagline: Un network di esperti indipendenti, pragmatici e scientificamente rigorosi
 # SG: the site logo is set in logo.svg
-# I chagned it to text.
+# I changed it to text.'
+about-name: Chi siamo
+blog-name: Notizie
+team-name: Team
+contacts-name: Contatti
+
 ####################################
 ######   CTA Header Buttons   ######
 ####################################
@@ -130,8 +135,14 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: La nostra missione
-about-description: Fare cose ...
+about-title: Chi siamo
+about-description: Il Centro per l'Etica nelle Tecnologie Emergenti (CETE) è il primo think tank italiano dedicato alle 
+  tecnologie emergenti. Promuoviamo un <b>dibattito informato, pragmatico e basato sull'evidenza</b>, offrendo
+  ai decisori politici strumenti per scelte ottimali. <b>Liberi da influenze economiche</b>, aiutiamo l'Italia a sfruttare
+  al meglio le nuove tecnologie, riducendo i rischi e massimizzando i benefici per l'interesse pubblico.
+  <b>Abbiamo una visione internazionale</b>, perché le sfide tecnologiche richiedono coordinazione globale.
+
+about-button-text: I nostri valori
 
 #####################################
 #############  Technologies  ########
@@ -254,6 +265,10 @@ approaches:
 #####################################
 blog-title: Notizie
 #blog-description: Le attività recenti del team di CETE
+blog-read-more: Leggi di più
+blog-all-posts: Tutte le notizie
+post-authors-text: "Autori: "
+post-share-text: "Condividi: "
 
 #####################################
 ############### Team ################
