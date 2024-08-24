@@ -9,7 +9,7 @@ smallimage: strategia.jpg
 blurb: "La strattegia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli"
 shortblurb: "La strattegia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli"
 splashimage: /images/blog/strategia.jpg
-explains_mission_statement: true
+explains_mission_statement: false
 permalink: /blog/strategia/
 ---
 
