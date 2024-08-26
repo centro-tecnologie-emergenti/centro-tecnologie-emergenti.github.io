@@ -47,10 +47,13 @@ title: Centro per l'Etica nelle Tecnologie Emergenti
 # Website language
 lang: it-IT # en-US
 # Header Title
-header-title: Aiutiamo l'Italia a navigare <br> le nuove tecnologie
+header-title: Aiutiamo l'Italia a navigare <br> le tecnologie emergenti
+# Oppure: Aiutiamo l'Italia a navigare <br> le sfide del futuro
 # Oppure: "Supportiamo l'Italia nelle sfide delle nuove tecnologie"
 # Header Tagline
-header-tagline: Un network di esperti indipendenti, pragmatici e scientificamente rigorosi
+header-tagline: CETE è un gruppo di esperti indipendenti <br> che studia l'impatto delle nuove tecnologie
+  
+#  pragmatici e scientificamente rigorosi
 # SG: the site logo is set in logo.svg
 # I changed it to text.'
 about-name: Chi siamo
@@ -136,10 +139,12 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: Chi siamo
-about-description: Il Centro per l'Etica nelle Tecnologie Emergenti (CETE) è il primo think tank italiano dedicato alle 
-  tecnologie emergenti. Promuoviamo un <b>dibattito informato, pragmatico e basato sull'evidenza</b>, offrendo
-  ai decisori politici strumenti per scelte ottimali. <b>Liberi da influenze economiche</b>, aiutiamo l'Italia a sfruttare
-  al meglio le nuove tecnologie, riducendo i rischi e massimizzando i benefici per l'interesse pubblico.
+# a short description of your goals and what you work on.
+about-description: Il Centro per l'Etica nelle Tecnologie Emergenti (CETE) è il primo think tank italiano dedicato a questo tema.
+  Forniamo opinioni e scriviamo report <b>informati, pragmatici e 
+  basati sull'evidenza</b>, supportando i decisori politici nel compiere scelte ottimali. 
+  Vogliamo far sì che l'Italia sfrutti al meglio le nuove tecnologie, come l'Intelligenza Artificiale.
+  <b>Liberi da interessi economici</b>, puntiamo a massimizzare i benefici per l'interesse pubblico.
   <b>Abbiamo una visione internazionale</b>, perché le sfide tecnologiche richiedono coordinazione globale.
 
 about-button-text: I nostri valori
@@ -430,7 +435,8 @@ team:
 ############   Contact   ############
 #####################################
 contact-title: Contattaci
-contact-description:
+contact-description: "Se hai feedback o domande, scrivici a ...@... <br> Registrati alla nostra newsletter per aggiornamenti:"
+
 
 #####################################
 #############   Footer   ############
