@@ -141,11 +141,11 @@ mailchimp:
 about-title: Chi siamo
 # a short description of your goals and what you work on.
 about-description: Il Centro per le Politiche sulle Tecnologie Emergenti (CePTE) è il primo think tank italiano dedicato a questo tema.
-  Forniamo opinioni e scriviamo report <b>informati, pragmatici e 
-  basati sull'evidenza</b>, supportando i decisori politici nel compiere scelte ottimali. 
+  Forniamo opinioni e scriviamo report informati, pragmatici e 
+  basati sull'evidenza, supportando i decisori politici nel compiere scelte ottimali. 
   Vogliamo far sì che l'Italia sfrutti al meglio le nuove tecnologie, come l'Intelligenza Artificiale.
-  <b>Liberi da interessi economici</b>, puntiamo a massimizzare i benefici per l'interesse pubblico.
-  <b>Abbiamo una visione internazionale</b>, perché le sfide tecnologiche richiedono coordinazione globale.
+  Liberi da interessi economici, puntiamo a massimizzare i benefici per l'interesse pubblico.
+  Abbiamo una visione internazionale, perché le sfide tecnologiche richiedono coordinazione globale.
 
 about-button-text: I nostri valori
 
@@ -429,7 +429,7 @@ contact-description: "Se hai feedback o domande, scrivici a ...@... <br> Registr
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: © 2024 CETE. All rights reserved.
+footer-description: © 2024 CePTE. All rights reserved.
 # SG: removed the following from footer section
 # footer-copyright-text: Ohkimur
 # footer-copyright-url: https://github.com/ohkimur
