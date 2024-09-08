@@ -2,7 +2,7 @@
 layout: post
 title: "Lancio del Centro per le Politiche sulle Tecnologie Emergenti"
 shorttitle: "Lancio del Centro per le Politiche sulle Tecnologie Emergenti"
-date: 2023-10-09 09:30
+date: 2024-09-07 09:30
 image: lancio.jpg
 smallimage: lancio.jpg
 blurb: "CePTE supporta i decisori politici nella transizione tecnologica"

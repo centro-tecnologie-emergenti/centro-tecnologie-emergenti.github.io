@@ -3,7 +3,7 @@ layout: post
 title: "Strategia italiana per l'IA: facciamo il punto"
 shorttitle: "Strategia italiana per l'IA: facciamo il punto"
 authors: Angelo Leone, Lorenzo Pacchiardi
-date: 2023-10-09 09:30
+date: 2024-09-08 09:30
 image: strategia.jpg
 smallimage: strategia.jpg
 blurb: "La strategia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli"
