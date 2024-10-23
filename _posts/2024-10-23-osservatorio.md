@@ -33,7 +33,7 @@ Il Centro per le Politiche sulle Tecnologie Emergenti (CePTE) propone di espande
   - Coordinamento delle politiche tra gli attori del sistema delle competenze. 
   - Consulenza al Ministero del Lavoro ed altri attori rilevanti.
     
-L'implementazione di questo sistema potrebbe sbloccare miliardi di valore aggiunto, migliorando la produttività del lavoro e riducendo lo skills mismatch, così rendendo la forza lavoro più resiliente. Tuttavia, l'iniziativa dovrà affrontare sfide quali l'identificazione di fonti di dati affidabili, l'allocazione di risorse finanziarie adeguate e il reclutamento di talenti con competenze interdisciplinari.
+L'implementazione di questo sistema migliorerà la produttività e ridurrà lo skills mismatch, così rendendo la forza lavoro più resiliente. Tuttavia, l'iniziativa dovrà affrontare sfide quali l'identificazione di fonti di dati affidabili, l'allocazione di risorse finanziarie adeguate e il reclutamento di talenti con competenze interdisciplinari.
 
 [^1]: Fonte: Excelsior. Il campo di osservazione settoriale di Excelsior è limitato all’industria e ai servizi privati escludendo esplicitamente: agricoltura, silvicoltura e pesca; i servizi generali della pubblica amministrazione e assicurazione sociale obbligatoria e la parte pubblica dei settori dell’istruzione e della sanità.
 [^2]: Accessibile a [https://www.senato.it/leg/19/BGT/Schede/Ddliter/testi/58262_testi.htm](https://www.senato.it/leg/19/BGT/Schede/Ddliter/testi/58262_testi.htm).
