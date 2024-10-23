@@ -216,6 +216,27 @@ section.blog-section {
           }
         }
 
+        // Footnote Styles
+        sup {
+          font-size: 0.8em;
+          vertical-align: super;
+        }
+
+        .footnotes {
+          //border-top: 1px solid $secondary; // Use your secondary color here
+          padding-top: 10px;
+          font-size: 0.9rem;
+        }
+
+        .footnotes ol {
+          list-style: decimal;
+          //margin-left: 20px;
+        }
+
+        .footnotes ol li {
+          margin-bottom: 5px;
+        }
+
         // Show More
         .show-more {
           display: block;
