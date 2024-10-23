@@ -5,8 +5,8 @@ shorttitle: "Lancio del Centro per le Politiche sulle Tecnologie Emergenti"
 date: 2024-09-07 09:30
 image: lancio.jpg
 smallimage: lancio.jpg
-blurb: "CePTE supporta i decisori politici nella transizione tecnologica"
-shortblurb: "CePTE supporta i decisori politici nella transizione tecnologica"
+blurb: "CePTE supporta i decisori politici nella transizione tecnologica."
+shortblurb: "CePTE supporta i decisori politici nella transizione tecnologica."
 splashimage: /images/blog/lancio.jpg
 explains_mission_statement: true
 permalink: /blog/lancio/

@@ -6,8 +6,8 @@ authors: Angelo Leone, Lorenzo Pacchiardi
 date: 2024-09-08 09:30
 image: strategia.jpg
 smallimage: strategia.jpg
-blurb: "La strategia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli"
-shortblurb: "La strategia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli"
+blurb: "La strategia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli."
+shortblurb: "La strategia proposta dall'AgID è un buon punto di partenza, ma necessita di più dettagli."
 splashimage: /images/blog/strategia.jpg
 explains_mission_statement: false
 permalink: /blog/strategia/
