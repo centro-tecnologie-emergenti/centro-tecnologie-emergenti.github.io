@@ -10,10 +10,25 @@
   <!-- Importing Styles -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
 
-  <meta property="og:title" content="{{ site.title | strip_html }}" />
-  <meta property="og:description" content="{{ site.header-title | strip_html }}" />
-  <meta property="og:image" content="https://cepte.it/images/logo_black_with_background.png" />
-  <meta property="og:url" content="https://cepte.it" />
-  <meta property="og:type" content="website" />
+  {% if page.layout == 'post' %}
+    <!-- Blog Post Meta Tags -->
+    <meta property="og:title" content="{{ page.title | strip_html }}" />
+    <meta property="og:description" content="{{ page.blurb | strip_html }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.splashimage }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:type" content="article" />
+    <meta name="description" content="{{ page.blurb | strip_html }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ page.title | strip_html }}" />
+    <meta name="twitter:description" content="{{ page.blurb | strip_html }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ page.splashimage }}" />
+  {% else %}
+    <!-- Default Site Meta Tags -->
+    <meta property="og:title" content="{{ site.title | strip_html }}" />
+    <meta property="og:description" content="{{ site.header-title | strip_html }}" />
+    <meta property="og:image" content="https://cepte.it/images/logo_black_with_background.png" />
+    <meta property="og:url" content="https://cepte.it" />
+    <meta property="og:type" content="website" />
+  {% endif %}
 
 </head>
