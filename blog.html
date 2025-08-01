@@ -19,7 +19,26 @@ permalink: /blog/
       </div>
       <div class="article-title">
         <h3 class="title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-        <h4 class="category">{{ post.date | date: "%b" }} {{ post.date | date: "%d" }}</h4>
+        <h4 class="category">
+          {% assign day = post.date | date: "%d" %}
+          {% assign month = post.date | date: "%m" %}
+          {% assign year = post.date | date: "%Y" %}
+          {% case month %}
+            {% when '01' %}{% assign month_name = 'gennaio' %}
+            {% when '02' %}{% assign month_name = 'febbraio' %}
+            {% when '03' %}{% assign month_name = 'marzo' %}
+            {% when '04' %}{% assign month_name = 'aprile' %}
+            {% when '05' %}{% assign month_name = 'maggio' %}
+            {% when '06' %}{% assign month_name = 'giugno' %}
+            {% when '07' %}{% assign month_name = 'luglio' %}
+            {% when '08' %}{% assign month_name = 'agosto' %}
+            {% when '09' %}{% assign month_name = 'settembre' %}
+            {% when '10' %}{% assign month_name = 'ottobre' %}
+            {% when '11' %}{% assign month_name = 'novembre' %}
+            {% when '12' %}{% assign month_name = 'dicembre' %}
+          {% endcase %}
+          {{ day | plus: 0 }} {{ month_name }} {{ year }}
+        </h4>
       </div>
     </header>
 

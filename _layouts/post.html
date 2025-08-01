@@ -15,7 +15,26 @@ layout: page
         </p>
 
         <h3 class="title">{{ page.title }}</h3>
-        <h4 class="category">{{ page.date | date: "%b" }} {{ page.date | date: "%d" }}</h4>
+        <h4 class="category">
+          {% assign day = page.date | date: "%d" %}
+          {% assign month = page.date | date: "%m" %}
+          {% assign year = page.date | date: "%Y" %}
+          {% case month %}
+            {% when '01' %}{% assign month_name = 'gennaio' %}
+            {% when '02' %}{% assign month_name = 'febbraio' %}
+            {% when '03' %}{% assign month_name = 'marzo' %}
+            {% when '04' %}{% assign month_name = 'aprile' %}
+            {% when '05' %}{% assign month_name = 'maggio' %}
+            {% when '06' %}{% assign month_name = 'giugno' %}
+            {% when '07' %}{% assign month_name = 'luglio' %}
+            {% when '08' %}{% assign month_name = 'agosto' %}
+            {% when '09' %}{% assign month_name = 'settembre' %}
+            {% when '10' %}{% assign month_name = 'ottobre' %}
+            {% when '11' %}{% assign month_name = 'novembre' %}
+            {% when '12' %}{% assign month_name = 'dicembre' %}
+          {% endcase %}
+          {{ day | plus: 0 }} {{ month_name }} {{ year }}
+        </h4>
       </div>
     </header>
 
@@ -38,7 +57,13 @@ layout: page
       {% if page.authors != nil %}
         <!-- Authors -->
         <hr/>
-        <div class="post-article-text">{{ site.post-authors-text }}</div>
+        <div class="post-article-text">
+          {% if page.authors contains ',' %}
+            Autori: 
+          {% else %}
+            Autore: 
+          {% endif %}
+        </div>
         <div class="post-article-text post-article-authors">
           {{page.authors}}
         </div>
