@@ -13,6 +13,9 @@ section.team-section {
   // Team Members Container
   .team-members-container {
     margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 
     .col-md-3 {
     //   @media (max-width: 600px) and (min-width: 430px) {
